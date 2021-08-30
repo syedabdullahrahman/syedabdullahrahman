@@ -17,7 +17,7 @@ Hi! I'm Syed Abdullah... 👋
 ---
 
 ## 📫 Connect me:
-[LinkedIn](https://www.linkedin.com/in/syed-abdullah-rahman/) || [Email](syedabdullahrahman@gmail.com) || [Facebook](https://www.facebook.com/syedabdullahrahman/)
+[LinkedIn](https://www.linkedin.com/in/syed-abdullah-rahman/) || [Email](mailto:syedabdullahrahman@gmail.com) || [Facebook](https://www.facebook.com/syedabdullahrahman/)
 
 ## My Resume:
 [Resume](https://syedabdullahrahman.github.io/download/Syed_Abdullah_RESUME.pdf) 
