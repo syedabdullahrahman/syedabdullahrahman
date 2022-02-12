@@ -2,7 +2,6 @@
 Hi! I'm Syed Abdullah... 👋
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedabdullahrahman&label=Views&color=blue&style=plastic" alt="syedabdullahrahman" /> </p>
 
 ## Software Developer | Programmer | Tech Enthusiast | Problem Solver
 ---
