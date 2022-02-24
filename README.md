@@ -25,6 +25,6 @@ Hi! I'm Syed Abdullah... 👋
      [Portfolio](http://syedabdullahrahman.github.io/)
 	 
 
-<a href="https://github.com/xsahil03x">
+<a href="https://github.com/syedabdullahrahman">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedabdullahrahman&show_icons=true&theme=light&count_private=true" alt="Abdullah's github stats"/>
 </a>
